@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/account3/oslight/kern/main'
+let g:netrw_dirhist_2='/home/account3/oslight/kern/thread'
+let g:netrw_dirhist_3='/home/account3/os161/toolbuild/sys161-2.0.8/build-disk161'
+let g:netrw_dirhist_4='/home/account3/sys161/man/man1'
